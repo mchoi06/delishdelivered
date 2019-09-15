@@ -4,7 +4,7 @@
 <title>External Style Sheet</title>
 <style type="text/css">
 	
-body {background-image: url("food.jpg");
+h1 {background-image: url("food.jpg");
 	background-color: lightblue;
 }
 
