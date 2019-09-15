@@ -3,11 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <title>External Style Sheet</title>
-<style type="text/css">
 	
 h1 {background-image: url("food.jpg");
 	background-color: lightblue;
 }
 
-</style>
 </html>
