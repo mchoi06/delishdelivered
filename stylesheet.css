@@ -2,6 +2,34 @@
   background-image: url("food.jpg");
 }
 
+	/*Navigation Bar*/
+	ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 14px 16px;
+		text-align: center;
+	}
+	
+	li {
+		display: inline;
+	}
+	
+	.navbar {
+		background-color: #8EFF8E;
+	}
+	
+	.navbar a {
+		color: #777;
+		padding: 14px 16px;
+		text-decoration: none;
+		font-size: 1.5em;
+	}
+	
+	.navbar a:hover {
+		color: #000;
+		background-color: #4EFF4E;
+	}
+
 h1 {
  font-size: 3em;
 }
