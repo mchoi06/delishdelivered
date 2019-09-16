@@ -1,6 +1,6 @@
 @font-face {
    font-family: catalunya;
-   src: url("catalunya.tff");
+   src: url(catalunya.tff);
 }
 
 * {
@@ -15,4 +15,5 @@ body {
 h1 {
   background-color: blue;
   margin-left: 20px;
+  font-family: catalunya;
 }
