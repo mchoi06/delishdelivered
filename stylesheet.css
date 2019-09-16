@@ -1,4 +1,11 @@
- body {
+	/*Font*/
+	@font-face {
+		font-family: catalunya;
+		src: url(catalunya.woff),
+		     url(catalunya.woff2),
+		     url(catalunya.ttf);
+	} 
+body {
   background-image: url("food.jpg");
 }
 
