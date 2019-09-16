@@ -3,7 +3,7 @@
     font-family: catalunya;
     src: url("catalunya.woff2") format("woff2"),
          url("catalunya.woff") format("woff"),
-         url("catalunya.ttf") format("ttf");
+         url("https://github.com/mchoi06/delishdelivered/blob/master/catalunya.ttf") format("ttf");
     font-weight: normal;
     font-style: normal;
 }
