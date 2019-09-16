@@ -1,8 +1,8 @@
 <html>
 @font-face {
     font-family: catalunya;
-    src: url("catalunya.woff2") format("woff2"),
-         url("catalunya.woff") format("woff"),
+    src: url("https://github.com/mchoi06/delishdelivered/blob/master/catalunya.woff2") format("woff2"),
+         url("https://github.com/mchoi06/delishdelivered/blob/master/catalunya.woff") format("woff"),
          url("https://github.com/mchoi06/delishdelivered/blob/master/catalunya.ttf") format("ttf");
     font-weight: normal;
     font-style: normal;
