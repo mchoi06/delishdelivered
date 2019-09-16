@@ -3,6 +3,10 @@
    src: url("catalunya.tff");
 }
 
+* {
+   font-family: catalunya;
+}
+
 body {
   background-image: url("food.jpg");
   font-family: catalunya;
