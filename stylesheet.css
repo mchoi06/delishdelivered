@@ -2,11 +2,6 @@
   background-image: url("food.jpg");
 }
 
-h1 {
-  background-color: pink;
-  margin-left: 20px;
-}
-
 h1, h2 {
   font-family: catalunya;
   text-align: center;
