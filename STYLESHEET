@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'catalunya_demoregular';
+    src: url('catalunya-webfont.woff2') format('woff2'),
+         url('catalunya-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
