@@ -1,10 +1,14 @@
 <html>
 @font-face {
-    font-family: "catalunya";
+    font-family: catalunya;
     src: url("catalunya.woff2") format("woff2"),
          url("catalunya.woff") format("woff"),
          url("catalunya.ttf") format("ttf");
     font-weight: normal;
     font-style: normal;
+}
+
+    * {
+        font-family: catalunya;
 }
 </html>
