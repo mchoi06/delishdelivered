@@ -39,8 +39,8 @@ li {
 }
 
 .navbar a.active {
-	color: #FFF;
-	background-color: #000;
+	color: #000;
+	background-color: #70FF70;
 }
 
 h1 {
