@@ -35,12 +35,12 @@ li {
 
 .navbar a:hover {
 	color: #000;
-	background-color: #4EFF4E;
+	background-color: #70FF70;
 }
 
 .navbar a.active {
 	color: #000;
-	background-color: #70FF70;
+	background-color: #4EFF4E;
 }
 
 h1 {
