@@ -38,7 +38,7 @@ li {
 	background-color: #4EFF4E;
 }
 
-.navbar a:active {
+.navbar a.active {
 	color: #FFF;
 	background-color: #000;
 }
