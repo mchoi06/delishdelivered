@@ -50,6 +50,11 @@ li {
 	background-color: #4EFF4E;
 }
 
+.back {
+	background: rgba(142, 255, 142, .7);
+}
+
+
 h1 {
  font-size: 5em;
 }
