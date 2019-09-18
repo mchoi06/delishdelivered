@@ -27,6 +27,7 @@ body {
 
 .navbar {
 	background-color: #8EFF8E;
+	display: inline;
 }
 
 .navbar a {
