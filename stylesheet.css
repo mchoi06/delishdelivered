@@ -18,16 +18,19 @@ body {
 }
 
 /*Navigation Bar*/
-.nav {
+#nav {
 	list-style-type: none;
 	margin: 0px;
 	padding: 14px 16px;
 	text-align: center;
 }
 
+.navoption {
+	display: inline;
+}
+
 .navbar {
 	background-color: #8EFF8E;
-	display: inline;
 }
 
 .navbar a {
