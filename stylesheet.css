@@ -18,15 +18,11 @@ body {
 }
 
 /*Navigation Bar*/
-ul {
+.nav {
 	list-style-type: none;
 	margin: 0px;
 	padding: 14px 16px;
 	text-align: center;
-}
-
-li {
-	display: inline;
 }
 
 .navbar {
