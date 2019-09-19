@@ -19,6 +19,11 @@ body {
 }
 
 /*Navigation Bar*/
+.navbar {
+	background-color: #8EFF8E;
+	text-align: center;
+}
+	
 .navbar ul {
 	list-style-type: none;
 	margin: 0px;
@@ -27,11 +32,6 @@ body {
 
 .navbar li {
 	display: inline;
-}
-
-.navbar {
-	background-color: #8EFF8E;
-	text-align: center;
 }
 
 .navbar a {
