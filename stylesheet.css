@@ -5,7 +5,14 @@
 <title>Embedded Style Sheet</title>
 <style type="text/css">
 
-body,html {padding:0; margin:0}	
+html {
+	height: 100%;
+}
+
+body,html {
+	padding:0; 
+	margin:0
+}	
 /*Font*/
 	@font-face {
 		font-family: catalunya;
@@ -14,8 +21,8 @@ body,html {padding:0; margin:0}
 		     url(catalunya.ttf);
 	} 
 body {
-  background-image: url("food.jpg");
-	margin: 0px
+	min-height: 100%;
+	background-image: url("food.jpg");
 }
 
 /*Navigation Bar*/
