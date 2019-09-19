@@ -25,12 +25,12 @@ ul {
 }
 
 li {
-	display: inline;
 }
 
 .navbar {
 	background-color: #8EFF8E;
 	text-align: center;
+	display: inline;
 }
 
 .navbar a {
